@@ -10,7 +10,6 @@ Dark green: #28b485
 * {
     margin: 0;
     padding: 0;
-<<<<<<< HEAD
     box-sizing: border-box;
 }
 
@@ -20,6 +19,9 @@ body {
     font-size: 16px;
     line-height: 1.7;
     color: #777;
-=======
->>>>>>> origin/master
+}
+
+.header {
+    height: 95vh;
+    background-image: url(../img/hero.jpg);
 }
